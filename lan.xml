@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Res>	
+	<Text id="lan_text" value="Lingua Portuguêsa | Feita por Denan"/>
+	<Text id="about_text" value="Sobre"/>
+	<Text id="version_text" value="Versão:V1.0.0.0"/>
+	<Text id="copyright_text" value=""/>
+  <!-- Config Page-->
+	<Text id="version" value="V1.0"/>
+	<Text id="device_1_text" value="X11 Mouse"/>
+	<Text id="configuration_text" value="Configurações"/>
+	<Text id="exit_text" value="Fechar"/>
+	<Text id="mouse_name_text" value="X11 Mouse"/>
+	<Text id="profile_text" value="Perfil"/>
+	<Text id="low_power_text" value="Bateria fraca"/>
+	<Text id="charging_text" value="Caregando..."/>
+	<Text id="apply_text" value="Aplicar"/>
+	<Text id="confirm_text" value="OK"/>
+	<Text id="ok_text" value="OK"/>
+	<Text id="cancel_text" value="Cancelar"/>
+	<Text id="add_profile_text" value="Perfil"/>
+	<Text id="add_profile_tooltip_text" value="Adicionar Perfil"/>
+	<Text id="delete_profile_tooltip_text" value="Deletar Perfil"/>
+	<Text id="rename_profile_tooltip_text" value="Renomear Perfil"/>
+	<Text id="import_profile_tooltip_text" value="Importar Perfil"/>
+	<Text id="export_profile_tooltip_text" value="Exportar Perfil"/>
+	<Text id="reset_profile_tooltip_text" value="Resetar Perfil"/>
+	<Text id="power_text" value="Bateria"/>
+	
+	<!--mouse Button page-->
+	<Text id="button_setting_text" value="Configurações do Botão"/>
+	<Text id="dpi_setting_text" value="Configurações de DPI"/>
+	<Text id="light_setting_text" value="Configurações de  Luz"/>
+	<Text id="prate_setting_text" value="Configurações de  Polling Rate"/>
+	<Text id="mouse_attribute_setting_text" value="Atributos do Mouse"/>
+	<Text id="mouse_attribute_text" value="Abrir Atributo de Mouse"/>
+	<Text id="power_setting_text" value="Gerenciamento de Energia"/>
+	<Text id="macro_manager_text" value="Gerenciamento do Macro"/>
+	<Text id="assign_macro_text" value="Macro--"/>
+	
+	<Text id="light_mode_text" value="Modo:"/>
+	<Text id="light_brightness_text" value="Brilho:"/>
+	<Text id="light_breathspeed_text" value="Velocidade:"/>
+	<Text id="light_color_text" value="Cor:"/>
+	
+	<Text id="prate_1_text" value="Enconomia de Energia"/>
+	<Text id="prate_2_text" value="Escritório"/>
+	<Text id="prate_3_text" value="Jogo"/>
+	<Text id="prate_4_text" value="E-sports"/>
+	
+	<Text id="sleep_timer_1_text" value="Enconomia de Energia:"/>
+	<Text id="sleep_timer_2_text" value="Minutos"/>
+	<Text id="sleep_timer_3_text" value="Tempo Desligado:"/>
+	<Text id="wake_mode_text" value="Modo Acordado"/>
+	
+	<Text id="lift_of_distance_text" value="Elevação da distância"/>
+	<Text id="lift_of_distance_1_text" value="1 MM"/>
+	<Text id="lift_of_distance_2_text" value="2 MM"/>
+	
+	<Text id="key_debounce_text" value="Tempo de Resposta do Mouse"/>
+	
+	<Text id="ripple_control_text" value="DPI Suave"/>
+	
+	<Text id="angle_snap_text" value="Corrigir do Movimento do Mouse"/>
+	
+	<Text id="motion_sync_text" value="Sicronizamento de Dados ao PC"/>
+	
+	<Text id="off_text" value="Desligado"/>
+	<Text id="on_text" value="Ligado"/>
+	
+	<!--Shortcut page-->
+	<Text id="shortcut_setting_text" value="Combinação de Teclas Personalizadas"/>
+	<Text id="keyboard_ctrl_text" value="Ctrl"/>
+	<Text id="keyboard_shift_text" value="Shift"/>
+	<Text id="keyboard_alt_text" value="Alt"/>
+	<Text id="keyboard_win_text" value="Win"/>
+  
+	<!--Profile Name-->
+	<Text id="profile_name_1_text" value="Adicionar Profil"/>
+	<Text id="profile_name_2_text" value="Editar Perfil"/>
+	<Text id="profile_name_3_text" value="Coloque o Nome:"/>
+	
+	<!--Select Macro-->
+	<Text id="select_macro_1_text" value="Selecione o Macro"/>
+	<Text id="select_macro_2_text" value="Lista de Macros"/>
+	<Text id="select_macro_3_text" value="Tempo de Loop:"/>
+	<Text id="select_macro_4_text" value="O número de Tempo para Acionar"/>
+	<Text id="select_macro_5_text" value="Presione Qualquer Tecla para Parar"/>
+	<Text id="select_macro_6_text" value="Pressione e Segure, Solte Parar"/>
+  
+  <!--Warning-->
+	<Text id="warning_title_text" value="Perigo!"/>
+	<Text id="delete_profile_text" value="Você Realmente Deseja Excluir este Perfil?"/>
+	<Text id="one_profile_text" value="Mantenha pelo Menos um Arquivo de configuração!"/>
+	<Text id="delete_macro_text" value="Você Realmente Deseja Excluir este Macro?"/>
+	<Text id="one_click_text" value="Pelo menos um botão deve ser &quot;Clique esquerdo&quot;!"/>
+	<Text id="no_device_text" value="Sem Dispositivo"/>
+	<Text id="save_macro_text" value="Os Dados da Macro não Foram Salvos, Salve ou Cancele :("/>
+	<Text id="sleep_device_text" value="Dispositivo Poupando Energia!"/>
+	<Text id="restore_text" value="Tem Certeza de que Deseja Restaurar esta Configuração para as Configurações Padrão?"/>
+	<Text id="warn_name_1_text" value="O Nome não Pode Ficar Vazio, Digite Novamente!"/>
+	<Text id="warn_name_2_text" value="O nome está duplicado, digite novamente!"/>
+  
+  <!--Macro-->
+	<Text id="add_macro_text" value="Macro"/>
+	<Text id="add_macro_tooltip_1_text" value="+"/>
+	<Text id="delete_macro_tooltip_1_text" value="-"/>
+	<Text id="add_macro_tooltip_text" value="Adicionar Macro"/>
+	<Text id="delete_macro_tooltip_text" value="Deletar Macro"/>
+	<Text id="macro_name_text" value="Nome do Macro"/>
+	<Text id="macro_mouse_event_text" value="Ação do Mouse"/>
+	<Text id="macro_command_text" value="Commando do Mouse"/>
+	<Text id="mouse_key_1_text" value="Botão Esquerdo"/>
+	<Text id="mouse_key_2_text" value="Botão Direito"/>
+	<Text id="mouse_key_3_text" value="Botão do Meio"/>
+	<Text id="mouse_key_4_text" value="Avançar"/>
+	<Text id="mouse_key_5_text" value="Voltar"/>
+	<Text id="insert_mouse_event_text" value="Ação do Mouse"/>
+	<Text id="start_recording_text" value="Gravar Movimento"/>
+	<Text id="stop_recording_text" value="Parar"/>
+	<Text id="macro_list_header_key_text" value="Botão"/>
+	<Text id="macro_list_header_action_text" value="Ação"/>
+	<Text id="macro_list_header_delay_text" value="Delay(ms)"/>
+	<Text id="macro_up_text" value="Subir"/>
+	<Text id="macro_down_text" value="Descer"/>
+	<Text id="macro_delete_action_text" value="Deletar"/>
+	<Text id="macro_clear_action_text" value="Limpar Tudo"/>
+	<Text id="export_text" value="Exportar"/>
+	<Text id="import_text" value="Importar"/>
+	<Text id="macro_edit_text" value="Editar"/> 
+	<Text id="record_delay_text" value="Atraso da Gravação"/>
+	<Text id="no_delay_text" value="Delay Minimo"/>
+	<Text id="default_delay_text" value="ms"/>
+	<Text id="macro_list_text" value="Lista de Macro"/>
+	<Text id="delay_times_text" value="Tempos de Atraso"/>
+	<Text id="ms_text" value="MS"/>
+	<Text id="insert_delay_ok_text" value="Inserir"/>
+	<Text id="insert_delay_cancel_text" value="Cancelar"/>
+	<Text id="insert_key_ok_text" value="Salvar"/>
+  
+  
+  <!--Command-->
+	<Text id="left_click_text" value="Botão esquerdo"/>
+	<Text id="right_click_text" value="Botão Direito"/>
+	<Text id="wheel_click_text" value="Botão do Meio"/>
+	<Text id="forward_text" value="Avançar"/>
+	<Text id="backward_text" value="Voltar"/>
+	<Text id="double_click_text" value="Click Duplo"/>
+	<Text id="fire_button_text" value="Auto Click"/>
+	<Text id="easy_aim_text" value="Mira Fácil"/>
+	<Text id="led_loop_text" value="Loop do LED"/>
+	<Text id="assign_shortcut_text" value="Atribuir um atalho"/>
+	<Text id="select_macro_text" value="Selecionar um Macro"/>
+	<Text id="scroll_up_text" value="Rolar para cima"/>
+	<Text id="scroll_down_text" value="Rolar para Baixo"/>
+	<Text id="titl_right_text" value="Rolar para Direita"/>
+	<Text id="titl_left_text" value="Rolar para Esquerda"/>
+  
+	<Text id="dpi_text" value="DPI"/>
+	<Text id="dpi_cycle_text" value="Ciclo da DPI"/>
+	<Text id="dpi_up_text" value="DPI +"/>
+	<Text id="dpi_down_text" value="DPI -"/>
+  
+	<Text id="profile_cycle_text" value="Ciclo de Perfil"/>
+	<Text id="profile_up_text" value="Perfil +"/>
+	<Text id="profile_down_text" value="Perfil -"/>
+  
+	<Text id="media_function_text" value="Multimídia"/>
+	<Text id="media_player_text" value="Media Player"/>
+	<Text id="play_pause_text" value="Tocar / Pausar"/>
+	<Text id="media_stop_text" value="Para"/>
+	<Text id="previous_track_text" value="Faixa anterior"/>
+	<Text id="next_track_text" value="Proxima Faixa"/>
+	<Text id="volume_up_text" value="Volume +"/>
+	<Text id="volume_down_text" value="Volume -"/>
+	<Text id="mute_text" value="Mutar"/>
+	
+	<Text id="browser_function_text" value="Navegador"/>
+	<Text id="browser_home_text" value="Início do Navegador"/>
+	<Text id="browser_favorites_text" value="Favoritos do Navegador"/>
+	<Text id="browser_forward_text" value="Voltar Pagina do Navegador"/>
+	<Text id="browser_backward_text" value="Navegador para trás"/>
+	<Text id="browser_stop_text" value="Fechar Navegador"/>
+	<Text id="browser_refresh_text" value="Recarregar o Navegador"/>
+	<Text id="browser_search_text" value="Pesquisar no navegador"/>
+	<Text id="email_text" value="Email"/>
+	<Text id="calculator_text" value="Calculadora"/>
+	<Text id="my_computer_text" value="Meu Computador"/>
+	<Text id="power_text" value="Energia"/>
+	<Text id="sleep_text" value="Dormir"/>
+	<Text id="wake_up_text" value="Acordar"/>
+  
+	<Text id="shortcut_function_text" value="Atalho"/>
+	<Text id="cut_text" value="Cortar"/>
+	<Text id="copy_text" value="Copiar"/>
+	<Text id="paste_text" value="Colar"/>
+	<Text id="open_text" value="Abrir"/>
+	<Text id="save_text" value="Salvar"/>
+	<Text id="find_text" value="Encontrar"/>
+	<Text id="redo_text" value="Refazer"/>
+	<Text id="undo_text" value="Desfazer"/>
+	<Text id="select_all_text" value="Selecionar Tudo"/>
+	<Text id="print_text" value="Capturar Navegador"/>
+	<Text id="close_window_text" value="Fechar Jánela"/>
+	<Text id="swap_windows_text" value="Trocar janelas"/>
+	<Text id="show_desktop_text" value="Mostrar Desktop"/>
+	<Text id="run_command_text" value="Executar um Comando"/>
+	<Text id="lock_pc_text" value="Bloquear PC"/>
+	<Text id="screen_capture_text" value="Tirar Print"/>
+  
+    <Text id="button_off_text" value="Botão Desligado"/>
+	
+	<!--MS-1-->
+	<Text id="ms_lightmode1" value="LED Desligado"/>
+	<Text id="ms_lightmode2" value="Statico"/>
+	<Text id="ms_lightmode3" value="Brisando"/>
+	<Text id="ms_lightmode4" value="Neon"/>
+	<Text id="ms_lightmode5" value="Brisando Cores"/>
+	<Text id="ms_lightmode6" value="DPI Estática"/>
+	<Text id="ms_lightmode7" value="Brisando DPI"/>
+	<Text id="ms_lightmode8" value="Rainbow"/>
+	<Text id="ms_lightmode9" value="Lightning"/>
+	<Text id="ms_lightmode10" value="Static Mixed Color"/>
+	<Text id="ms_lightmode11" value="Marquee"/>
+	<Text id="ms_lightmode12" value="Marquee 2"/>
+  
+  <!--Keyboard string-->
+  <!-- 键盘按键 -->
+	<Text id="key_LCtrl" value="LCtrl" />                 
+	<Text id="key_LShift" value="LShift" />                
+	<Text id="key_LAlt"  value="LAlt" />                  
+	<Text id="key_LWin"  value="LWin" />                
+	<Text id="key_RCtrl"  value="RCtrl" />                 
+	<Text id="key_RShift" value="RShift" />                
+	<Text id="key_RAlt" value="RAlt" />                  
+	<Text id="key_RWin" value="RWin" />                
+	<Text id="key_A" value="A" />                     
+	<Text id="key_B" value="B" />                     
+	<Text id="key_C" value="C" />                     
+	<Text id="key_D" value="D" />                     
+	<Text id="key_E" value="E" />                     
+	<Text id="key_F" value="F" />                     
+	<Text id="key_G" value="G" />                     
+	<Text id="key_H" value="H" />                     
+	<Text id="key_I" value="I" />                     
+	<Text id="key_J" value="J" />                     
+	<Text id="key_K" value="K" />                     
+	<Text id="key_L" value="L" />                     
+	<Text id="key_M" value="M" />                     
+	<Text id="key_N" value="N" />                     
+	<Text id="key_O" value="O" />                     
+	<Text id="key_P" value="P" />                     
+	<Text id="key_Q" value="Q" />                     
+	<Text id="key_R" value="R" />                     
+	<Text id="key_S" value="S" />                     
+	<Text id="key_T" value="T" />                     
+	<Text id="key_U" value="U" />                     
+	<Text id="key_V" value="V" />                     
+	<Text id="key_W" value="W" />                     
+	<Text id="key_X" value="X" />                     
+	<Text id="key_Y" value="Y" />                     
+	<Text id="key_Z" value="Z" />                     
+	<Text id="key_1" value="1" />                     
+	<Text id="key_2" value="2" />                     
+	<Text id="key_3" value="3" />                     
+	<Text id="key_4" value="4" />                     
+	<Text id="key_5" value="5" />                     
+	<Text id="key_6" value="6" />                     
+	<Text id="key_7" value="7" />                     
+	<Text id="key_8" value="8" />                     
+	<Text id="key_9" value="9" />                     
+	<Text id="key_0" value="0" />                     
+	<Text id="key_Enter" value="Enter" />	               
+	<Text id="key_Esc" value="Esc" />                   
+	<Text id="key_BackSpace" value="BackSpace" />             
+	<Text id="key_Tab" value="Tab" />	                 
+	<Text id="key_Space" value="Space" />                 
+	<Text id="key_-" value="-" />                     
+	<Text id="key_=" value="=" />                     
+	<Text id="key_[" value="[" />                     
+	<Text id="key_]" value="]" />                     
+	<Text id="key_xiexian" value="\" />                  
+	<Text id="key_;" value=";" />                     
+	<Text id="key_'" value="'" />                     
+	<Text id="key_`" value="`" />                     
+	<Text id="key_," value="," />                     
+	<Text id="key_." value="." />                     
+	<Text id="key_/" value="/" />                     
+	<Text id="key_Caplk" value="Caplk" />                 
+	<Text id="key_F1" value="F1" />                    
+	<Text id="key_F2" value="F2" />                    
+	<Text id="key_F3" value="F3" />                    
+	<Text id="key_F4" value="F4" />                    
+	<Text id="key_F5" value="F5" />                    
+	<Text id="key_F6" value="F6" />                    
+	<Text id="key_F7" value="F7" />                    
+	<Text id="key_F8" value="F8" />                    
+	<Text id="key_F9" value="F9" />                    
+	<Text id="key_F10" value="F10" />                   
+	<Text id="key_F11" value="F11" />                   
+	<Text id="key_F12" value="F12" />                   
+	<Text id="key_Print Scr" value="Print Scr" />             
+	<Text id="key_Scroll Lock" value="Scroll Lock" />           
+	<Text id="key_Pause" value="Pause" />                 
+	<Text id="key_Insert" value="Insert" />                
+	<Text id="key_Home" value="Home" />                  
+	<Text id="key_Page Up" value="Page Up" />               
+	<Text id="key_Delete" value="Delete" />                
+	<Text id="key_End" value="End" />                   
+	<Text id="key_Page Down" value="Page Down" />             
+	<Text id="key_Right" value="Right" />                 
+	<Text id="key_Left" value="Left" />                  
+	<Text id="key_Down" value="Down" />                  
+	<Text id="key_Up" value="Up" />                    
+	<Text id="key_Num Lock" value="Num Lock" />              
+	<Text id="key_Num_/" value="Num /" />                 
+	<Text id="key_Num_*" value="Num *" />                 
+	<Text id="key_Num_-" value="Num -" />                 
+	<Text id="key_Num_+" value="Num +" />                 
+	<Text id="key_Num_Enter" value="Num Enter" />             
+	<Text id="key_Num_1" value="Num 1" />                 
+	<Text id="key_Num_2" value="Num 2" />                 
+	<Text id="key_Num_3" value="Num 3" />                 
+	<Text id="key_Num_4" value="Num 4" />                 
+	<Text id="key_Num_5" value="Num 5" />                 
+	<Text id="key_Num_6" value="Num 6" />                 
+	<Text id="key_Num_7" value="Num 7" />                 
+	<Text id="key_Num_8" value="Num 8" />                 
+	<Text id="key_Num_9" value="Num 9" />                 
+	<Text id="key_Num_0" value="Num 0" />                 
+	<Text id="key_Num_." value="Num ." />               
+	<Text id="key_APP" value="App" />                   
+	<Text id="key_Launch App2" value="Launch App2" />
+	<Text id="key_Browaer Home" value="Página inicial do navegador" />          
+	<Text id="key_Media Play Pause" value="Pausa na reprodução de mídia" />      
+	<Text id="key_Browser Search" value="Pesquisa do navegador" />        
+	<Text id="key_Launch Mail" value="Iniciar correio" />           
+	<Text id="key_Volume Up" value="Aumentar volume" />             
+	<Text id="key_Volume Mute" value="Mutar Volume" />           
+	<Text id="key_Media Stop" value="Para a mídia" />            
+	<Text id="key_Volume Down" value="Diminuir Volume" />           
+	<Text id="key_Browser Favorites" value="Favoritos do Navegador" />     
+	<Text id="key_Browser ForWard" value="Navegar para frente" />       
+	<Text id="key_Browser Back" value="Navegar para Trás" />          
+	<Text id="key_Media Prev Track" value="Faixa anterior de Mídia" />      
+	<Text id="key_Media Next Track" value="Proxima Faixa da Mídia" />      
+	<Text id="key_Computer" value="Computador" />              
+	<Text id="key_Browser Refresh" value="Atualizar Navegador" />       
+	<Text id="key_Launch Media Select" value="Iniciar seleção de mídia" />   
+	<Text id="key_Launch Media Select" value="Iniciar seleção de mídia" />   
+	<Text id="key_Power" value="Energia" />                 
+	<Text id="key_Sleep" value="Dormir" />                 
+	<Text id="key_Wakeup" value="Acordado" />	 
+	<Text id="L_Button" value="Botão Esquerdo" />
+	<Text id="R_Button" value="Botão Direito" />
+	<Text id="M_Button" value="Botão Do Meio" />
+	<Text id="Forward_Button" value="Botão Avançar" />
+	
+	<Text id="Backward_Button" value="Botão Voltar" />	
+	<Text id="key_down_action" value="Apertando"/>
+	<Text id="key_up_action" value="Soltando"/>
+  
+</Res>
